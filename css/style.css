@@ -1,7 +1,20 @@
 h1 {
-	color: #272343;
+	color: #D9D9D9;
 }
 
 #price {
 	font-size: 4em;
+	color: #DA7422;
+}
+
+.MyContainer {
+	height:100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color:#284B63;
+}
+
+.MyContainer p {
+	color : #fff;
 }
