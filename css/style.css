@@ -3,7 +3,7 @@ h1 {
 }
 
 #price {
-	font-size: 4em;
+	font-size: 3em;
 	color: #DA7422;
 }
 
@@ -18,3 +18,14 @@ h1 {
 .MyContainer p {
 	color : #fff;
 }
+@media  screen and (max-width: 700px) { 
+
+#price {
+	font-size: 2em;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+} 
